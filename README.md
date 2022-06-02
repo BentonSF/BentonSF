@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BentonSF
-- 👀 I’m interested in the ethics of AI with an infinite mindset
+- 👋 Hi, I’m Andrea (@BentonSF)
+- 👀 After nearly a decade in the military, I'm passionate about optimizing technology to empower individuals and connect communities
 - 🌱 I’m just beginning this journey and currently learning the basics of computer science
 
 
